@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GetMyParkingTask</string>
+    <string name="cloud_name">ds6tdhpmu</string>
+        <string-array name="image_sizes_list">
+            <item>30*40</item>
+            <item>200*300</item>
+            <item>1000*1200</item>
+        </string-array>
+
+</resources>
